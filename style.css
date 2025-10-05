@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+}
+
+blockquote {
+  width: 35vw;
+  height: 10vh;
+  font-style: italic;
+  color: darkblue;
+  font-size: 24px;
+  padding: 10px;
+  border-width: 2px;
+  border-color: aqua;
+  border-style: solid;
+  border-radius: 10px;
+  
+}
